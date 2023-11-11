@@ -5,7 +5,7 @@ body {font-size:16px;}
 
 .contents{width:100%;margin:0 auto;}
 
-head{width:100%;margin:0 auto;background:#000;color:#fff;}
+header{width:100%;margin:0 auto;background:#000;color:#fff;}
 
 h1 {font-size:4em;line-height:1.7;}
 
@@ -15,7 +15,19 @@ nav {width:100%;margin:0 auto;background:#ccc;color:#fff;}
 
 section {width:100%;margin:0 auto;}
 
-section#01 {
+#01 {
+    background:#ccc;
+    color:#fff;
+}
+#02 {
+    background:#ccc;
+    color:#fff;
+}
+#03 {
+    background:#ccc;
+    color:#fff;
+}
+#04 {
     background:#ccc;
     color:#fff;
 }
